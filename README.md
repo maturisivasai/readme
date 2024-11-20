@@ -1,6 +1,6 @@
 
 
-Skills and Technologies:
+**Skills and Technologies:**
 
 Languages:	Java,C,SQL,Python,HTML5,CSS3, Scala, Spark
 
